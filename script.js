@@ -91,6 +91,7 @@ for (let i = 0; i < 16; ++i) {
       decimal_click = false;
       num1 = parseFloat(text.textContent);
       num2 = 0;
+      resetDisplay = true;
     }
     );
   }
